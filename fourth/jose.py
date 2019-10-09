@@ -1,3 +1,3 @@
-print("jose Thomas")
-print("Ur16cs041")
+print("KRUPAL")
+print("UR16CS113")
 
